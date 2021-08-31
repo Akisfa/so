@@ -1,0 +1,25 @@
+*{
+    background-color: rgb(18, 146, 1);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+#a1{
+    background-color: rgb(3, 14, 1);
+    color:rgb(47, 0, 255);
+    font-size: 60px;
+}
+#d1 {
+    width:600px;
+    height:450px;
+}
+#c1{
+    color:aqua;
+    font-size: larger;
+}
+#c2{
+    color:aqua;
+    font-size: larger;
+}
+#dsa{
+    font-size: 50px;
+}
