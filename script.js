@@ -30,7 +30,10 @@ var snapshot = {
     "Started":"31.08.2021",
     "Engineers":"akisfa(Dimirosky)",
     "Site support main develop":"Github&Snapshot",
-    "Organised site support":"akisfa(Dimirosky)"
+    "Organised site support":"akisfa(Dimirosky)",
+    "Promotion":"Unpaid",
+    "Money support":"0$",
+    "Paid site upload":"Free classic github promotion"
 
 }
 document.getElementById("snapshot").innerHTML = JSON.stringify(snapshot);
